@@ -1,0 +1,6 @@
+Package: meows
+Version: 1
+Architecture: all
+Maintainer: Harald Sitter <sitter@kde.org>
+Description: meep meep
+Priority: extra

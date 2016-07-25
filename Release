@@ -1,0 +1,13 @@
+Origin: origin
+Label: label
+Codename: xx
+Architectures: amd64
+Components: main
+Description: description"
+Date: Mon, 25 Jul 2016 12:05:32 +0200
+MD5Sum:
+ 8633bb052fccc666b124f673d2557eac              490 Packages.gz
+                 0 Packages
+SHA256:
+ 286f6e78d97222b6ee95c1f227155990350753c0f5187af5dafe655b64525a40              490 Packages.gz
+                 0 Packages

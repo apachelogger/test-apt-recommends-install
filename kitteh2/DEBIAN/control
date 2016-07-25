@@ -1,0 +1,7 @@
+Package: kitteh
+Version: 2
+Architecture: all
+Maintainer: Harald Sitter <sitter@kde.org>
+Description: meep meep
+Priority: extra
+Recommends: meows
